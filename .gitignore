@@ -1,0 +1,31 @@
+# Made by Riddesh Saboo
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+bin/
+include/
+lib/
+pyvenv.cfg
+
+# Databases
+*.db
+
+# QR code images
+accounts/qr/*.png
+
+# System files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
